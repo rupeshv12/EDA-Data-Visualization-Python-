@@ -9,8 +9,7 @@
 
  
 
+<img width="776" alt="visual_snaps" src="https://user-images.githubusercontent.com/107261871/224140867-43d8f1d1-78ec-4acf-ad59-7b56057e3051.png">
 
-
-![196cd7aafdca1d96bc95ab268627d198](https://user-images.githubusercontent.com/107261871/224135603-7819f9fc-d369-4a51-a1c2-32296f1b4d04.jpg)
 
 
