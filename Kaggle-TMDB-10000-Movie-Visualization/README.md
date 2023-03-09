@@ -5,7 +5,7 @@
 * Kaggle TMDB 10000 Movie Visualization.ipynb (jupyter notebook data analysis with description of each point)
 * Kaggle TMDB 10000 Movie Visualization.pdf
 * final_df_dataset.csv created from all EDA and peprocessing steps.
-* final_df_dataset.csv is also used in creating visualization in PowerBi
+* final_df_dataset.csv is also used in creating visualization in PowerBi ( https://github.com/rupeshv12/PowerBI-Projects/tree/main/Kaggle-TMDB-10000-Movies-Dataset-Analysis )
 
  
 
